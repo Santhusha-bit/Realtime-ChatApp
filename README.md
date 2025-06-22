@@ -54,17 +54,3 @@ To start the server:
 npm start
 ```
 
-## 📂 Project Structure
-
-```
-├── src/
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── middleware/
-│   └── ...
-├── .env
-├── package.json
-└── README.md
-```
-
