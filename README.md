@@ -1,4 +1,4 @@
-# RealTime Chat Application
+# Real-time Chat Application (WhatsApp Clone - beta)
 
 A Real-time Chat application built with Node.js, Express, MongoDB, and Cloudinary. We can say it's a WhatsApp Clone but this app doesn't have features to share status or make calls unlike in WhatsApp. 
 
