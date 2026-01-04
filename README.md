@@ -11,7 +11,7 @@ A Real-time Chat application built with Node.js, Express, MongoDB, and Cloudinar
 
 ---
 
-## 🛠 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -38,7 +38,7 @@ NODE_ENV=development
 
 > **Note**: Replace all placeholder values (e.g., `your_mongodb_connection_string`) with your actual credentials.
 
-## 3. Build the App 🚧
+## 3. Build the App 
 
 To create a production build:
 
@@ -46,7 +46,7 @@ To create a production build:
 npm run build
 ```
 
-## 4. Start the App 🚀
+## 4. Start the App 
 
 To start the server:
 
